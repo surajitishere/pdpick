@@ -1,0 +1,3 @@
+# model organisms that must be kept
+g001
+g002

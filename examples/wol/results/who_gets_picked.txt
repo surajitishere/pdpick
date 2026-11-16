@@ -1,0 +1,6 @@
+genomes in tree: 10575
+quality, all genomes: mean 0.852, median 0.943
+quality, PD-optimal 500: mean 0.618, median 0.598
+genome size (Mb), all genomes: median 2.74
+genome size (Mb), PD-optimal 500: median 1.35
+quality < 0.9: 37.6% of all genomes, 78.8% of the PD-optimal 500
